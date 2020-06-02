@@ -21,14 +21,13 @@ h1 {
 #content {
   background-color: #FFFFFF;
   padding: 10px;
+  display: incline-flex;
 }
 
 #contact {
   width: 210px;
-  float: left;
 }
 
 #main {
   width: 670px;
-  float: right;
 }
