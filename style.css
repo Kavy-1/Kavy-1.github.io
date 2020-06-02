@@ -21,8 +21,10 @@ body {
 
 #contact {
   width: 180px;
+  float: left;
 }
 
 #main {
   width: 600px;
+  float: right;
 }
